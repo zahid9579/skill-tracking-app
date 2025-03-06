@@ -1,0 +1,1 @@
+import Resource from "../model/resourceModel";
